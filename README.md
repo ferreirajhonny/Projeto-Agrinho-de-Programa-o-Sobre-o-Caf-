@@ -10,6 +10,6 @@ O projeto utilizamos as linguagens de html CSS e JavaScript.
   img ( que mostra as imagens colocada no site)
   sections ( definam sessões na programação).
 
-# Já no styla a programação é mais voltada para a estilização da página, que também usamos algumas tegs a serguir:
+# Já no style a programação é mais voltada para a estilização da página, que também usamos algumas tags a seguir:
    
   
