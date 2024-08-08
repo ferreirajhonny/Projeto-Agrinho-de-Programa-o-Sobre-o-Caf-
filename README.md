@@ -12,4 +12,6 @@ O projeto utilizamos as linguagens de html CSS e JavaScript.
 
 # Já no style a programação é mais voltada para a estilização da página, que também usamos algumas tags a seguir:
    
-  
+  backgraundcolor ( utilizamos para preencher a cor de fundo mas não só ela, como também letra e uma certa parte do site)
+  var (utilizado junto com o backgraundcolor para determinar que será usado uma certa com em um espaço determinado)
+   h1, H2,... ( utilizado determinar tópicos dentro do site)
